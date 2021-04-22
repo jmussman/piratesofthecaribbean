@@ -27,6 +27,8 @@ battle where Blackbeard died and later hanged.
 * blackbart@potc.live
 * calicojack@potc.live
 
+This project demonstrates HTML5/CSS3 and is an example of using ES6+ (JavaScript 6/2016+) with jQuery to manipulate elements.
+
 Enjoy!
 
 -- Joel Mussman
