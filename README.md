@@ -2,20 +2,30 @@
 
 # Pirates of the Caribbean
 
-This site is used to park the domain names piratesofthecaribbean.live and potc.live.
-I like to use the names of dead pirates for programming and administrative examples.
+This site is used to park the domain names [piratesofthecaribbean.live](https://piratesofthecaribbean.live) and [potc.live](https://potc.live).
+I like to use the names of dead pirates from the "Golden age of piracy" for programming and administrative examples.
 Maybe I should call this list the "Dead pirates league"!
+
+Up to Sam Bellamy these email addresses mirror the images in the montage on the site (yes, two of them are women!).
+I couldn't find a period image of Black Sam, so a drawing of his ship the Whydah Gally is in the montage.
+The Whydah was located in 1984 off of Cape Code in fourteen feet of water.
+In 2021 bone fragments were retrieved near a pistol known to belong to Black Sam and DNA tested against his descendants.
+Black Caesar was a former slave who operated South of Elliot Key in Biscayne Bay in the early 18th century, he may have been captured in the
+battle where Blackbeard died and later hanged.
 
 * edwardteach@potc.live
 * charlesvane@potc.live
-* blackbeard@potc.live
+* blackbeard@potc.live (Edward Teach)
 * annebonney@potc.live
 * maryread@potc.live
-* jackratham@potc.live
-* bartroberts@potc.live
+* jackratham@potc.live (John Ratham / Calico Jack)
+* bartroberts@potc.live (Bartholomew Roberts / Black Bart)
 * henrymorgan@potc.live
 * williamkidd@potc.live
-* sambellamy@potc.live
+* sambellamy@potc.live (Samuel Bellamy / Black Sam Bellamy)
+* blackceasar@potc.live (Black Caesar)
+* blackbart@potc.live
+* calicojack@potc.live
 
 Enjoy!
 
