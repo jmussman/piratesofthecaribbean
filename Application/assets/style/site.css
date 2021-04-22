@@ -1,0 +1,55 @@
+/* site.css
+// Copyright © 2021 Joel Mussman. All rights reserved.
+*/
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+div.content {
+    margin: 0;
+    padding: 0;
+}
+
+div.footer {
+    position: absolute;
+    padding: 5px;
+    background-color: white;
+    border-radius: 5px;
+    opacity: 0.66;
+    font-size: 10pt;
+    font-family: arial, helvetica, sans-serif;
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+div.montage {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+img.montage {
+    border: none;
+}
+
+div.title {
+    margin-left: 50px;
+}
+
+div.title h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: calc(100vh * .10);
+    line-height: calc(100vh * .05);
+    text-shadow: 3px 3px 20px #fff, 3px 3px 20px #ccc;
+}
