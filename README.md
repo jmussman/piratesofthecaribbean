@@ -16,7 +16,7 @@ battle where Blackbeard died and later hanged.
 * edwardteach@potc.live
 * charlesvane@potc.live
 * blackbeard@potc.live (Edward Teach)
-* annebonney@potc.live
+* annebonny@potc.live
 * maryread@potc.live
 * jackratham@potc.live (John Ratham / Calico Jack)
 * bartroberts@potc.live (Bartholomew Roberts / Black Bart)
