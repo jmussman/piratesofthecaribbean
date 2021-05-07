@@ -13,19 +13,16 @@ In 2021 bone fragments were retrieved near a pistol known to belong to Black Sam
 Black Caesar was a former slave who operated South of Elliot Key in Biscayne Bay in the early 18th century, he may have been captured in the
 battle where Blackbeard died and later hanged.
 
-* edwardteach@potc.live
 * charlesvane@potc.live
 * blackbeard@potc.live (Edward Teach)
 * annebonny@potc.live
 * maryread@potc.live
-* jackratham@potc.live (John Ratham / Calico Jack)
-* bartroberts@potc.live (Bartholomew Roberts / Black Bart)
+* calicojack@potc.live (John Ratham / Calico Jack)
+* blackbart@potc.live (Bartholomew Roberts / Black Bart)
 * henrymorgan@potc.live
 * williamkidd@potc.live
-* sambellamy@potc.live (Samuel Bellamy / Black Sam Bellamy)
+* blacksam@potc.live (Samuel Bellamy / Black Sam Bellamy)
 * blackceasar@potc.live (Black Caesar)
-* blackbart@potc.live
-* calicojack@potc.live
 
 This project demonstrates HTML5/CSS3 and is an example of using ES6+ (JavaScript 6/2016+) with jQuery to manipulate elements.
 
